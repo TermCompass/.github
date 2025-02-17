@@ -12,22 +12,18 @@
 ✅ **보안 강화** - 데이터 암호화 및 사용자 인증 시스템 적용  
 
 ## ⚙️ 기술 스택  
-- **Frontend**: React, Next.js  
-- **Backend**: FastAPI, Spring Boot  
+- **Frontend**: React | Next.js | HTML | CSS
+- **Backend**: FastAPI | Spring Boot | Docker | Google Cloud Platform (GCP)
 - **Database**: MySQL  
-- **AI Model**: Klue-roBERTa 기반 법률 분석 모델  
+- **AI Model**: Klue-roBERTa | Llama2
 
 ## 🚀 프로젝트 목표  
 ✔️ 법률 서비스 접근성을 높이고, 불공정 약관으로부터 소비자를 보호  
 ✔️ AI 기반 약관 검토 자동화를 통해 기업 및 기관의 업무 효율성 향상  
 ✔️ 다양한 산업군에 적용 가능한 스마트 법률 솔루션 제공  
 
-## 🤝 Contributing
-KOTS는 KT AIVLE School 6기 충남/충북분반 AI 개발자 트랙 수강생들이 제작한 프로젝트입니다!
-
-기여 방법은 [CONTRIBUTING.md](https://github.com/TermCompass/CONTRIBUTING.md)에서 확인하세요.  
-
 ---
 
+🤝 **KOTS는 KT AIVLE School 6기 충남/충북분반 AI 개발자 트랙 수강생들이 제작한 프로젝트입니다!**
+
 📢 **KOTS와 함께 법률 문서를 더 쉽고 스마트하게 분석하세요!**  
-✨ **문의:** [Issues](https://github.com/TermCompass/issues) 또는 [Email](mailto:contact@termcompass.com)  
